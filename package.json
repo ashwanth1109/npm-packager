@@ -1,6 +1,6 @@
 {
   "name": "@ashwanth1109/add-two-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How to publish npm packages?",
   "main": "lib/index.js",
   "repository": "https://github.com/ashwanth1109/npm-packager",
