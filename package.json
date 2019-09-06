@@ -2,7 +2,7 @@
   "name": "@ashwanth1109/add-two-numbers",
   "version": "1.0.0",
   "description": "How to publish npm packages?",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/ashwanth1109/npm-packager",
   "author": "Ashwanth A R",
   "license": "MIT",
