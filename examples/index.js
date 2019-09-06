@@ -1,5 +1,5 @@
 import addTwoNumbers from "@ashwanth1109/add-two-numbers";
 
-// const result = addTwoNumbers(3, 5);
+const result = addTwoNumbers(3, 5);
 
-console.log(addTwoNumbers);
+console.log(result);
