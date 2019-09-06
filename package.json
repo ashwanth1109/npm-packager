@@ -1,0 +1,9 @@
+{
+  "name": "npm-packager",
+  "version": "1.0.0",
+  "description": "Repo to standardize my way of publishing npm packages",
+  "main": "index.js",
+  "repository": "https://github.com/ashwanth1109/npm-packager",
+  "author": "Ashwanth A R",
+  "license": "MIT"
+}
